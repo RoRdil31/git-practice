@@ -1,0 +1,70 @@
+    1  pwd
+    2  ls
+    3  cd downloads
+    4  cd ../
+    5  cd .
+    6  cd ..
+    7  pwd
+    8  cd rlaal
+    9  pwd
+   10  ls -l
+   11  -l
+   12  ls
+   13  pwd
+   14  ls
+   15  ls -l
+   16  ls -lh
+   17  pwd
+   18  ls
+   19  cd Downloads
+   20  pwd
+   21  ..
+   22  ../
+   23  /..
+   24  cd ../
+   25  pwd
+   26  clear
+   27  cd downloads
+   28  ls
+   29  cd ../
+   30  pwd
+   31  cd documents
+   32  cd 인공지능학과 4-2
+   33  ls
+   34  pwd
+   35  cd 인공지능학과\ 
+   36  cd 인공지능학과4-2\ 
+   37  cd 인공지능학과4-2
+   38  pwd
+   39  cd 인공지능학과\ 4-2
+   40  cd Open\ Source\ SW/
+   41  pwd
+   42  cd -r ../Open\ Source\ SW ./new_folder
+   43  cp -r ../Open\ Source\ SW ./new_folder
+   44  clear
+   45  vim
+   46  pwd
+   47  ls
+   48  cd Documents
+   49  ls
+   50  cd 인공지능학과\ 4-2
+   51  cd Open\ Source\ SW/
+   52  ls
+   53  nano myscript.sh
+   54  pwd
+   55  ls
+   56  sh myscript.shma
+   57  nano my1.txt
+   58  sh my1.txt
+   59  sh myscript.txt
+   60  ls
+   61  mv myscript.txt my2.sh
+   62  ls
+   63  sh my2.sh
+   64  ls
+   65  history > history > history_command.txt
+   66  rollback
+   67  cat history
+   68  ls
+   69  rm history history_command.txt
+   70  history > history_command.txt
